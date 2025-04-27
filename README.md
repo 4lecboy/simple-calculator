@@ -37,6 +37,7 @@ Edit
 
 📡 Live Demo
 Click here to see it live!
+https://4lecboy.github.io/simple-calculator/
 
 🛠️ Built With
 HTML5
