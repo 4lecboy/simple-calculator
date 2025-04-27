@@ -62,18 +62,3 @@ This project is open source and free to use.
 yaml
 Copy
 Edit
-
----
-
-# ⚡ Instructions:
-
-1. Create a file called `README.md` (capital letters matter) inside your project root.
-2. Paste the above content.
-3. Replace:
-   - `yourusername` with your real GitHub username.
-   - Update the live link if you publish on GitHub Pages.
-4. Commit and push:
-```bash
-git add README.md
-git commit -m "Add README"
-git push
