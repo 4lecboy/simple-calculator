@@ -59,3 +59,7 @@ For major changes, please open an issue first to discuss what you would like to 
 📄 License
 This project is open source and free to use.
 
+Feel free to modify and distribute it under the terms of the MIT License.
+
+📝 Author
+4lecboy - [GitHub]
